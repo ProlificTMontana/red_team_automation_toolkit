@@ -1,0 +1,2 @@
+streamlit==1.18.0
+python-nmap==0.6.1
